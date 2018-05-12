@@ -18,6 +18,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
     - http://en.wikipedia.org/wiki/Guerra_Junqueiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22412#Duas-Paginas-Dos-Quatorze-Annos--13-Poesias-Por-Abilio-Guerra-Junqueiro
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-08-26'
 gutenberg_type: Text
