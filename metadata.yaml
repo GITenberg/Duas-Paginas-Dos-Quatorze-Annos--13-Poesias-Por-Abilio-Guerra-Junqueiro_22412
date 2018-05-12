@@ -1,0 +1,37 @@
+_repo: Duas-Paginas-Dos-Quatorze-Annos--13-Poesias-Por-Abilio-Guerra-Junqueiro_22412
+_version: 0.1.0
+alternative_title: "Duas Páginas Dos Catorze Anos\r\nPoesias Por Abílio Guerra Junqueiro"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Junqueiro, Abílio Manuel Guerra
+    aliases:
+    - Junqueiro, Abilio Manuel Guerra
+    - Junqueiro, Guerra
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '6701'
+    url: http://www.gutenberg.org/2009/agents/6701
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
+    - http://en.wikipedia.org/wiki/Guerra_Junqueiro
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22412'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: Produced by Tiago Tejo
+publication_note: "Coimbra:\r\nImprensa da Universidade\r\n1864"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: "Duas Paginas Dos Quatorze Annos\r\nPoesias Por Abilio Guerra Junqueiro"
+url: http://www.gutenberg.org/ebooks/22412
